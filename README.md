@@ -4,7 +4,7 @@ CIPHER ME (EN)
 Python3 GUI based encryption tool.
 ----------------------------------
 
-Requested by French CNED 2023 NSI 1ERE (NI16) class, written by Martin LOUVEL; CC-0 CREATIVE COMMONS, Free usage allowed for any purpose with citation of original author.
+Written by Martin LOUVEL; CC-0 CREATIVE COMMONS, Free usage allowed for any purpose with citation of original author.
 
 Installation
 ------------
@@ -53,7 +53,7 @@ CIPHER ME (FR)
 Outil de chiffrement basé sur une interface graphique en Python 3.
 ------------------------------------------------------------------
 
-Demandé par la classe française CNED 2023 NSI 1ERE (NI16), écrit par Martin LOUVEL; CC-0 CREATIVE COMMONS, Tous types d'utilisations autorisés avec crédits à l'auteur original.
+Écrit par Martin LOUVEL; CC-0 CREATIVE COMMONS, Tous types d'utilisations autorisés avec crédits à l'auteur original.
 
 Installation
 ------------
