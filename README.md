@@ -71,7 +71,7 @@ Installation
 ```bash
 sudo apt install python3 # entrez votre mot de passe si demandé
 ```
-3. Dans le terminal, accédez au dossier Cipher Me en utilisant la commande `cd`` :
+3. Dans le terminal, accédez au dossier Cipher Me en utilisant la commande `cd` :
 ```bash
 cd [CHEMIN] # change le répertoire courant
 ```
